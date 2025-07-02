@@ -19,4 +19,4 @@ We aim to contribute meaningful, open, and reusable software while exploring eme
 
 ## Tech Stack
 
-.NET, Node.js, React, Flutter, PostgreSQL, MongoDB, Docker, Azure, GitHub Actions, and more.
+.NET, Node.js, React, Flutter, MySQL, SQL Server, Docker, GitHub Actions, and more.

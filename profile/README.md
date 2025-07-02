@@ -12,9 +12,8 @@ We aim to contribute meaningful, open, and reusable software while exploring eme
 
 ## What You'll Find Here
 
-- Personal side projects and portfolios  
-- Collaborative apps and mini-systems  
-- Final year capstone projects  
+- Personal side projects and portfolios
+- Collaborative apps and mini-systems
 - Backend APIs, full-stack solutions, IoT, and more
 
 ## Tech Stack
